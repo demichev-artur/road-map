@@ -22,7 +22,7 @@ const Monitors = () => {
     return (
         <div className={styles.container}>
             <div className={styles.header}>
-                <button onClick={()=> window.open("/report")}>Авторизация</button>
+                <button onClick={()=> window.open("/report")}>Сделать репорт</button>
             </div>
             <div className={styles.content}>
                 <div className={styles.listOne}>
@@ -30,7 +30,7 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Появилась яма на новой дороге по улице Айни</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Фото: </span></b><button onClick={()=> window.open("https://aif-s3.aif.ru/images/014/315/1d16293f1aaaeaa2e456c985d34e8b9e.jpg")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
@@ -38,7 +38,7 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Появилась яма на новой дороге по улице Айни</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Фото: </span></b><button onClick={()=> window.open("https://aif-s3.aif.ru/images/014/315/1d16293f1aaaeaa2e456c985d34e8b9e.jpg")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
@@ -46,7 +46,7 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Появилась яма на новой дороге по улице Айни</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Фото: </span></b><button onClick={()=> window.open("https://aif-s3.aif.ru/images/014/315/1d16293f1aaaeaa2e456c985d34e8b9e.jpg")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
@@ -54,7 +54,7 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Появилась яма на новой дороге по улице Айни</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Фото: </span></b><button onClick={()=> window.open("https://aif-s3.aif.ru/images/014/315/1d16293f1aaaeaa2e456c985d34e8b9e.jpg")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
@@ -62,7 +62,7 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Появилась яма на новой дороге по улице Айни</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Фото: </span></b><button onClick={()=> window.open("https://aif-s3.aif.ru/images/014/315/1d16293f1aaaeaa2e456c985d34e8b9e.jpg")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
@@ -96,35 +96,35 @@ const Monitors = () => {
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Нужно поставить светофор на пешеходном переходе</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Прикрепленный файл: </span></b><button onClick={()=> window.open("https://img.kapital.kz/VOko_lX6Qco/bG9jYWw6Ly8vYy80LzkvMy8zLzcyNjUzYzBjYjc2OTIyZjQ4N2U3YWNkMDcwMC5qcGc")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Нужно поставить светофор на пешеходном переходе</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Прикрепленный файл: </span></b><button onClick={()=> window.open("https://img.kapital.kz/VOko_lX6Qco/bG9jYWw6Ly8vYy80LzkvMy8zLzcyNjUzYzBjYjc2OTIyZjQ4N2U3YWNkMDcwMC5qcGc")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Нужно поставить светофор на пешеходном переходе</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Прикрепленный файл: </span></b><button onClick={()=> window.open("https://img.kapital.kz/VOko_lX6Qco/bG9jYWw6Ly8vYy80LzkvMy8zLzcyNjUzYzBjYjc2OTIyZjQ4N2U3YWNkMDcwMC5qcGc")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Нужно поставить светофор на пешеходном переходе</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Прикрепленный файл: </span></b><button onClick={()=> window.open("https://img.kapital.kz/VOko_lX6Qco/bG9jYWw6Ly8vYy80LzkvMy8zLzcyNjUzYzBjYjc2OTIyZjQ4N2U3YWNkMDcwMC5qcGc")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>
                     <div className={styles.item}>
                         <div><p><b><span>Описание: </span></b>Нужно поставить светофор на пешеходном переходе</p></div>
                         <div><p><b><span>Адрес: </span></b>ул.Айни</p></div>
-                        <div><p><b><span>Фото: </span></b><button>Посмотреть</button></p></div>
+                        <div><p><b><span>Прикрепленный файл: </span></b><button onClick={()=> window.open("https://img.kapital.kz/VOko_lX6Qco/bG9jYWw6Ly8vYy80LzkvMy8zLzcyNjUzYzBjYjc2OTIyZjQ4N2U3YWNkMDcwMC5qcGc")}>Посмотреть</button></p></div>
                         <div><p><b><span>Статус: </span></b>Отправлено</p></div>
                         <div><p><b><span>Дата: </span></b>01.01.2023</p></div>
                     </div>

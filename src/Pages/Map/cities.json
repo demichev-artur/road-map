@@ -1,0 +1,114 @@
+[
+  {
+    "city": "Bishkek",
+    "admin": "Chyi",
+    "country": "Chyi",
+    "population_proper": "12691836",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.875515549690206",
+    "lng": "74.53541856798654",
+    "population": "18978000"
+
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Delhi",
+    "country": "Chyi",
+    "population_proper": "7633213",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.880547314301936",
+    "lng": "74.667426166867",
+    "population": "15926000"
+
+  },
+  {
+    "city": "Bishkek",
+    "admin": "West Bengal",
+    "country": "Chyi",
+    "population_proper": "4631392",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.86947689054096",
+    "lng": "74.5870886424508",
+    "population": "14787000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Tamil Nadu ",
+    "country": "Chyi",
+    "population_proper": "4328063",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.827189733383705",
+    "lng": "74.59738832506825",
+    "population": "7163000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Karnataka",
+    "country": "Chyi",
+    "population_proper": "5104047",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.8800441563051",
+    "lng": "74.71274477038384",
+    "population": "6787000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Andhra Pradesh",
+    "country": "Chyi",
+    "population_proper": "3597816",
+    "iso2": "IN",
+    "capital": "admin",
+    "lat": "42.90167624491283",
+    "lng": "74.574042377802",
+    "population": "6376000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Gujarat",
+    "country": "Chyi",
+    "population_proper": "3719710",
+    "iso2": "IN",
+    "capital": "minor",
+    "lat": "42.84833693068237",
+    "lng": "74.16617494615045",
+    "population": "5375000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "West Bengal",
+    "country": "Chyi",
+    "population_proper": "1027672",
+    "iso2": "IN",
+    "capital": "",
+    "lat": "42.89714922627003",
+    "lng": "74.9592505076951",
+    "population": "4841638"
+  },
+  {
+    "city": "Pune",
+    "admin": "Maharashtra",
+    "country": "Chyi",
+    "population_proper": "2935744",
+    "iso2": "IN",
+    "capital": "",
+    "lat": "42.803264539620756",
+    "lng": "74.4432364085602",
+    "population": "4672000"
+  },
+  {
+    "city": "Bishkek",
+    "admin": "Gujarat",
+    "country": "Chyi",
+    "population_proper": "2894504",
+    "iso2": "IN",
+    "capital": "",
+    "lat": "42.760427933375524",
+    "lng": "74.65334993395484",
+    "population": "3842000"
+  }
+]
